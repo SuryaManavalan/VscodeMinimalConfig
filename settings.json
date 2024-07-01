@@ -1,0 +1,85 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "explorer.confirmDragAndDrop": false,
+    "presentation-mode.active": {
+        "commands": [
+            "workbench.action.closeSidebar"
+        ],
+        "window.zoomLevel": 2,
+        "workbench.activityBar.visible": false,
+        "workbench.statusBar.visible": false,
+        "workbench.layoutControl.enabled": false,
+        "workbench.editor.enablePreview": false,
+        "window.menuBarVisibility": "compact",
+        "workbench.activityBar.location": "hidden",
+        "workbench.layoutControl.type": "menu",
+        "files.autoSave": "afterDelay",
+        "editor.minimap.enabled": false,
+        "javascript.updateImportsOnFileMove.enabled": "always",
+        "editor.fontSize": 15,
+        "apc.menubar.compact": true,
+        "breadcrumbs.filePath": "last",
+        "breadcrumbs.enabled": false,
+        "workbench.editor.labelFormat": "short",
+        "workbench.iconTheme": "symbols",
+        "symbols.hidesExplorerArrows": true,
+        "window.commandCenter": false,
+        "window.titleBarStyle": "custom",
+        "editor.glyphMargin": false,
+        "editor.guides.indentation": false,
+        "editor.guides.highlightActiveIndentation": false,
+        "apc.electron": {
+            "titleBarStyle": "hidden",
+            "titleBarOverlay": {
+                "color": "#1e2030",
+                "symbolColor": "#eeffffc0",
+                "height": 32
+            },
+            "backgroundColor": "#00000000",
+        },
+        "apc.activityBar": {
+            "position": "bottom",
+            "size": 20
+        },
+        "apc.statusBar": {
+            "position": "editor-bottom",
+            "height": 20,
+            "fontSize": 10
+        },
+        "apc.header": {
+            "height": 25,
+            "fontSize": 11
+        },
+        "apc.listRow": {
+            "height": 19,
+            "fontSize": 11
+        },
+        "apc.titleBar": {
+            "height": 0
+        },
+        "workbench.editor.showTabs": false,
+        "editor.scrollbar.horizontalScrollbarSize": 0,
+        "editor.scrollbar.verticalScrollbarSize": 0,
+        "workbench.editor.autoLockGroups": {
+            "mergeEditor.Input": true
+        },
+        "editor.foldingMaximumRegions": 50000,
+        "window.title": "${rootName}",
+    },
+    "editor.stickyScroll.enabled": false,
+    "editor.fontFamily": "Roboto Mono",
+    "github.copilot.editor.enableCodeActions": false,
+    "window.menuBarVisibility": "compact",
+}
